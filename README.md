@@ -1,0 +1,1 @@
+# DP-600-Fabric-Analytics-Engineer
